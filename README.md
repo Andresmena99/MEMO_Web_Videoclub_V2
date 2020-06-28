@@ -1,4 +1,4 @@
-# MEMO_Web_Videoclub_V2
+# MEMO Web Videoclub V2
 
 Práctica realizado en Python utilizando el framework de Flask en el tercer curso de ingeniería informática.
 
